@@ -1,6 +1,6 @@
 # Sentiment-Analyzer
 
-#### A model that analyzes the sentiment of a customer's feedback and classifies it as either a 'GOOD REVIEW' or a 'BAD REVIEW'.
+#### A model that analyzes the sentiment of a customer's feedback and classifies it as either  'HAPPY' or  'NOT HAPPY'.
 
 ### Modules Used
 <pre>
