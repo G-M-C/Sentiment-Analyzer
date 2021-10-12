@@ -1,6 +1,6 @@
 # Sentiment-Analyzer
 
-#### A model that analyzes the sentiment of a customer's feedback and classifies it as either  'HAPPY' or  'NOT HAPPY'.
+#### A model that analyzes the sentiment of a customer's feedback and classifies it as either Happy or Unhappy.
 
 ### Modules Used
 <pre>
